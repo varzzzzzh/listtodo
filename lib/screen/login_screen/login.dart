@@ -68,7 +68,7 @@ class _LoginState extends State<Login> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              "Log",
+              "Login",
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 35,
