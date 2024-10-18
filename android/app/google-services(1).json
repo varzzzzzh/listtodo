@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194994750173",
+    "project_id": "listtodo-bdef6",
+    "storage_bucket": "listtodo-bdef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194994750173:android:c46a8bb1dbf8b38faf1134",
+        "android_client_info": {
+          "package_name": "com.example.listtodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqlDtXauMEiJGvMnaWD_axpSIYKdwxBWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

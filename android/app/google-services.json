@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482778771643",
+    "project_id": "todolistnv-ba6f2",
+    "storage_bucket": "todolistnv-ba6f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482778771643:android:4b73a85db76ff76906399e",
+        "android_client_info": {
+          "package_name": "com.example.listtodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABjk7vp8oUDvUoBJf1SFAFjoNChIVlw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482778771643:android:c2ec04d6a00e7fd806399e",
+        "android_client_info": {
+          "package_name": "com.listtodo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABjk7vp8oUDvUoBJf1SFAFjoNChIVlw0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
